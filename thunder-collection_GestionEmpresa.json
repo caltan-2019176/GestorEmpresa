@@ -1,7 +1,7 @@
 {
     "client": "Thunder Client",
     "collectionName": "GestionEmpresa",
-    "dateExported": "2024-03-01T16:43:22.701Z",
+    "dateExported": "2024-03-01T17:13:54.290Z",
     "version": "1.1",
     "folders": [
         {
@@ -345,11 +345,11 @@
             "colId": "45c4bb7d-aebf-497d-ad86-0d61449d3bf6",
             "containerId": "fb10c5b1-b641-41f0-8db3-c3c0f1ed4eaf",
             "name": "updateCompany",
-            "url": "company/updateCompany/65e1ef04432ede2f20ab3620",
+            "url": "company/updateCompany/65e204e2e470f3d07efa403f",
             "method": "PUT",
             "sortNum": 120000,
             "created": "2024-02-28T02:43:57.829Z",
-            "modified": "2024-03-01T15:07:30.916Z",
+            "modified": "2024-03-01T17:13:09.077Z",
             "headers": [
                 {
                     "name": "Authorization",
@@ -402,7 +402,7 @@
             "method": "GET",
             "sortNum": 140000,
             "created": "2024-02-28T02:58:14.017Z",
-            "modified": "2024-03-01T15:08:34.803Z",
+            "modified": "2024-03-01T17:13:33.595Z",
             "headers": [
                 {
                     "name": "Authorization",
@@ -416,7 +416,7 @@
                 "form": [
                     {
                         "name": "experienceYears",
-                        "value": "10"
+                        "value": "5"
                     }
                 ]
             },
